@@ -1,7 +1,7 @@
 # Barcode Reader
 
 ## Use the java code
-*Clone code from "https://github.com/zxing/zxing.git" to your local and install it in Maven
+*Clone supporting libraries from "https://github.com/zxing/zxing.git" to your local and install it in Maven
 <br/>
 <br/>
 <i>
